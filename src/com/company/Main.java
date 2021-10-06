@@ -67,7 +67,9 @@ public class Main{
         else if (( day > 31) || (month > 12)) {
             System.out.println(-1);
         }
-
+        else if (( day > 31) || (month > 12)) {
+            System.out.println(-1);
+        }
 
     }
 }
